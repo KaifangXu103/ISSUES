@@ -2,7 +2,7 @@
 
 Open your hosts file in path C:\Windows\System32\drivers\etc
 
-Adding these lines
+Add these lines
 ```
 # GitHub Start 
 192.30.253.112 github.com 
